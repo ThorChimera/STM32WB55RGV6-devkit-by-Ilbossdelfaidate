@@ -7,3 +7,11 @@ Front PCB:
 Back PCB:
 
 ![Back PCB](image/BackPCB.jpg)
+
+Front PCB Assembled:
+
+![Front PCB Assembled](image/FrontPCBassembled.jpg)
+
+Back PCB Assembled:
+
+![Back PCB Assembled](image/BackPCBassembled.jpg)
