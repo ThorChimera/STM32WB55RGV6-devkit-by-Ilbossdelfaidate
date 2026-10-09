@@ -1,1 +1,9 @@
 This repository includes the schematic with all the components to be placed in the pcb and the pcb production file for the STM32WB55RGVB6 devkit, schematic, connections, layout and everything by ilbossdelfaidate
+
+Front PCB:
+
+![Front PCB](image/FrontPCB.jpg)
+
+Back PCB:
+
+![Back PCB](image/BackPCB.jpg)
